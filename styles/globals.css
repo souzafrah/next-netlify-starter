@@ -35,8 +35,8 @@ code {
 }
 
 .social-icon {
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  margin: 0 5px;
+}
+
+ul li{
+  display: inline;
 }
