@@ -33,3 +33,9 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.my_sm_buttons {
+  display: inline-block;
+  float: none;
+  clear: none;
+}
