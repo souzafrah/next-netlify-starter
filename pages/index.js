@@ -13,8 +13,9 @@ export default function Home() {
       <main>
         <Header title="'¡Hola, que bueno verte acá!" />
         <p className="description">
-          Soy Frah Souza, brasileña, directora de arte.
-          Mi nuevo domínio es: <li class="#"> <a href="http://souzafrah.com.ar" target="_blank">souzafrah.com.aR</a></li>
+          Soy Frah Souza, brasileña, directora de arte. <br>
+          Mi nuevo domínio es: <li class="#"> <a href="http://souzafrah.com.ar" target="_blank">souzafrah.com.ar</a></li>
+        </p>
       </main>
 
       <Footer />
