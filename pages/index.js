@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="'¡Hola, que bueno verte acá!" />
+        <Header title="Directora de Arte Jr."/>
         <p className="description">
-          Soy Frah Souza, brasileña, directora de arte.
-          Mi nuevo domínio es: <li class="#"> <a href="http://souzafrah.com.ar" target="_blank">souzafrah.com.ar</a></li>
+          ¡Hola! Que bueno verte acá :)
+          Mi nuevo domínio es: <a href="http://souzafrah.com.ar" target="_blank">souzafrah.com.ar</a>
         </p>
       </main>
 
